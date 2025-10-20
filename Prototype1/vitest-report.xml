@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="2" failures="0" errors="0" time="2.843">
+    <testsuite name="src/__tests__/AboutPage.vitest.test.tsx" timestamp="2025-10-07T01:37:47.268Z" hostname="MiMac" tests="2" failures="0" errors="0" skipped="0" time="0.2807239">
+        <testcase classname="src/__tests__/AboutPage.vitest.test.tsx" name="AboutPage (Vitest) &gt; opens admin modal via trigger and closes with Cancel" time="0.2044653">
+        </testcase>
+        <testcase classname="src/__tests__/AboutPage.vitest.test.tsx" name="AboutPage (Vitest) &gt; CTA links exist and invoke smooth scroll" time="0.0746101">
+        </testcase>
+    </testsuite>
+</testsuites>
